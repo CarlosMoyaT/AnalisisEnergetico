@@ -1,6 +1,6 @@
 # AnalisisEnergetico
 
-Este proyecto es una API RESTful desarrollada con Spring Boot que permita gestionar y consultar datos de consumo energético de diferentes usuarios. Ofrece varios endpoints para acceder y filtrar la información, he tratado de usar programación funcional a modo de aprender sobre ésta ya que me parece interesante. Las tecnologías que he usado son:
+La intencion de este proyecto es poder gestionar y consultar datos de consumo energético de diferentes usuarios. Ofrece varios endpoints para acceder y filtrar la información, he tratado de usar programación funcional a modo de aprender sobre ésta ya que me parece interesante. Las tecnologías que he usado son:
 
 - Spring Boot
 - Spring Data JPA
